@@ -17,7 +17,7 @@ This app is perfect for anyone who needs quick and reliable weather information,
 
 # Output
 
-![image](https://github.com/user-attachments/assets/02301d7b-c981-4080-a3ad-ba696933e1d4)
+<img src="![Screenshot 2024-08-13 234153](https://github.com/user-attachments/assets/fa86eefd-d424-4a74-82a4-8e69671e28a1)" width=50% height=50%>
 
 ![image](https://github.com/user-attachments/assets/0d671bf9-328d-48ce-aad0-00f944e362e7)
 
