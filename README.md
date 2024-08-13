@@ -14,3 +14,13 @@ The app presents weather data in an easy-to-read format, ensuring that you get a
 Weather data is updated in real-time, so you're always informed about the latest conditions.
 
 This app is perfect for anyone who needs quick and reliable weather information, whether at home or on the go.
+
+# Output
+
+![image](https://github.com/user-attachments/assets/02301d7b-c981-4080-a3ad-ba696933e1d4)
+
+![image](https://github.com/user-attachments/assets/0d671bf9-328d-48ce-aad0-00f944e362e7)
+
+![image](https://github.com/user-attachments/assets/5091c04d-4c91-46e3-b68b-a961c80775d7)
+
+
